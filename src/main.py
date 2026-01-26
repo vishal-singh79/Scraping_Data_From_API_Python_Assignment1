@@ -34,7 +34,7 @@ def main():
     df = pd.DataFrame(results)
     df.to_csv("data/output.csv", index=False)
 
-    print("Data extraction + SQLite insertion completed!")
+    print("Data extraction + SQLite insertion completed! ")
 
 if __name__ == "__main__":
     main()
