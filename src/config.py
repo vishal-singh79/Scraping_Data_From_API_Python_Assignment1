@@ -9,10 +9,3 @@ HEADERS = {
     "origin": "https://portal.mmrcl.com"
 }
 
-# HEADERS = {
-#     "accept": "*/*",
-#     "content-type": "application/json",
-#     "origin": "https://mmrcl.com",
-#     "referer": "https://mmrcl.com/",
-#     "user-agent": "Mozilla/5.0"
-# }
