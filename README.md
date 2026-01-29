@@ -24,6 +24,12 @@ This project is a **production-grade data pipeline** that automatically scrapes 
    - **CSV File** (`output.csv`) - for spreadsheet analysis
 4. **Handles Errors Gracefully**: Manages API failures and invalid responses without crashing
 
+### Screenshot
+
+If you'd like this repository's route-table PNG to appear in the README, save the image as `data/route_table.png` (commit it to the repo). Once present, the image will render below on GitHub and in local viewers:
+
+![Route table screenshot](data/route_table.png)
+
 ### Project Flow
 
 ```
